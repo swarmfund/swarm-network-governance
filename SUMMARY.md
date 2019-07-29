@@ -12,10 +12,10 @@
   * [Voting](intro/voting.md)
   * [Approval](intro/approval.md)
   * [Actions](intro/actions.md)
-* [Governance Action Ballots](intro-2/README.md)
-  * [Requirements](intro-2/requirements.md)
-  * [Ballot Types](intro-2/ballot-types.md)
-  * [Pre-Clearance](intro-2/pre-clearance.md)
+* [Governance Action Ballots](ballots/README.md)
+  * [Requirements](ballots/requirements.md)
+  * [Ballot Types](ballots/ballot-types.md)
+  * [Pre-Clearance](ballots/pre-clearance.md)
 
 ## Swarm Network
 
