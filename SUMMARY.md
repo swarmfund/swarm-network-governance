@@ -17,5 +17,3 @@
   * [Ballot Types](ballots/ballot-types.md)
   * [Pre-Clearance](ballots/pre-clearance.md)
 
-## Swarm Network
-
