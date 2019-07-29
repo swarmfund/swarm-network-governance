@@ -1,7 +1,3 @@
-.. meta::
-   :description: Introduction to Swarm Network Governance
-   :keywords: swarm, network govenance, documentation, roadmap, governance
-
 # Introduction
 
 This documentation describes the practical usage of Swarm Governance. It is based on the most recently adopted version of the Swarm Network Constitution and Swarm Network Governance Model 0.2.
