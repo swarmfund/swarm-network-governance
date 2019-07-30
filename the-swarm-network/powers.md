@@ -1,6 +1,6 @@
 # Powers
 
-The Swarm Network shall have the following powers:
+The Swarm Network has the following powers:
 
 * raise funds and apply for, invite, obtain, collect and receive contributions \(including in-kind contributions of tangible or intangible property\), grants, subscriptions, fees and otherwise;
 * engage any person or organization to assist in the attainment of the purposes;

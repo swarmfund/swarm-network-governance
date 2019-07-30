@@ -10,9 +10,9 @@ A Member of the Swarm Network is a person that:
 * who lawfully owns SWM tokens, and
 * has a registered and validated identity on the Platform \(“Swarm Investor Pass”\).
 
-  **The Swarm Council**
+## **The Swarm Council**
 
-  The Swarm Council is an elected body of five natural persons who are Members. Its duties are to initiate sensible governance action proposals, ensure that all governance actions ballots are compliant with the purposes of the Swarm Network, administer funding for governance actions, and help prevent use of the Swarm platform for illicit purposes.
+The Swarm Council is an elected body of five natural persons who are Members. Its duties are to initiate sensible governance action proposals, ensure that all governance actions ballots are compliant with the purposes of the Swarm Network, administer funding for governance actions, and help prevent use of the Swarm platform for illicit purposes.
 
 Initial members of the Swarm Council are:
 
