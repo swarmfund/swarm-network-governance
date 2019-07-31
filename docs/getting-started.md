@@ -1,6 +1,8 @@
 # Getting started
 
-This is a quick guide to submitting governance action proposals for voting on by Swarm Members. To submit a proposal for balloting, you need to be a Swarm Member.
+This is a quick guide to submitting governance action proposals for voting on by Swarm Members. Full instructions are [here](ballots/requirements.md). 
+
+To submit a proposal for balloting, you need to be a Swarm Member.
 
 1. **Talk about it**. Present your idea and put it out to the community for discussion and to get feedback on it. [Telegram](https://t.me/swarmfund), [Reddit](https://reddit.com/r/swarm/), [Discourse ](https://community.swarm.fund)and the [Issues](https://github.com/swarmfund/networkgovernance/issues) tab in GitHub are good places to start.
 2. **Iterate**. Based on feedback, develop your idea until you feel it is solid enough to formulate into a coherent proposal, with clearly presented benefits and budget implications.
