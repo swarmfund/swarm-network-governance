@@ -1,19 +1,19 @@
 ---
-Title: Title
-Sponsor: Name (GitHub username / email)
-Created: DD-MM-YYYY
-Version: version no.
+Title: TestProposal
+Sponsor: Sam (GitHub username / email)
+Created: 01-01-1990
+Version: v1.01
 Voting Period: 
 ---
 
 # Insert proposal title like "Example title" here
-
+ProposalTest
 ## Description of the proposed Governance Action
-< Insert Text Here>
+Sample Text
 ## Purpose and rationale for the Governance Action and its intended outcomes
-< Insert Text Here>
+Sample Text
 ## Identify the specific uses for which Swarm Treasury funds may be expended to support the Governance Action;
-< Insert Text Here>
+Sample Text
 ## Additional information for Governance Actions requiring the expenditure of Swarm Treasury funds
 - Articulate and establish an accountability framework that measures the performance of the Governance Action;
 - Provide an auditing procedure to account for expenditures;
