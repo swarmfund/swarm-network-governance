@@ -3,6 +3,7 @@ Title: Title
 Sponsor: Name (GitHub username / email)
 Created: DD-MM-YYYY
 Version: version no.
+Ballot Type: Up/Down, Multi-Option or Approval Ballot
 Voting Period: 
 ---
 
