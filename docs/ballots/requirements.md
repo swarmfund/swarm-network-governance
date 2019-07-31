@@ -2,7 +2,7 @@
 
 ## Procedural:
 
-When you're ready to create a draft proposal, use the following procedures to submit your draft proposal by creating a pull request in GitHub.
+When you're ready to create a proposal, use the following procedures to submit your draft by creating a pull request in GitHub.
 
 1. Use a [template](https://github.com/swarmfund/networkgovernance/tree/master/templates) to ensure your proposal includes all the required information. Copy the template. 
 2. Submit your draft proposal by **creating a new file** in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository on GitHub. Give your proposal a temporary name.
