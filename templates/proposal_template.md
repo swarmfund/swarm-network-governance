@@ -4,7 +4,7 @@ Sponsor: Name (GitHub username / email)
 Created: DD-MM-YYYY
 Version: version no.
 Ballot Type: Up/Down, Multi-Option or Approval Ballot
-Voting Period: 
+Voting Period: 7 days
 ---
 
 # Insert proposal title like "Example title" here
@@ -14,7 +14,9 @@ Voting Period:
 ## Purpose and rationale for the Governance Action and its intended outcomes
 < Insert Text Here>
 ## Identify the specific uses for which Swarm Treasury funds may be expended to support the Governance Action;
-< Insert Text Here>
+
+< Insert Text Here - Express any fund requests in USD or EUR>
+
 ## Additional information for Governance Actions requiring the expenditure of Swarm Treasury funds
 - Articulate and establish an accountability framework that measures the performance of the Governance Action;
 - Provide an auditing procedure to account for expenditures;
