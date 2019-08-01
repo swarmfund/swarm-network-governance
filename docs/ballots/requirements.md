@@ -4,15 +4,14 @@
 
 When you're ready to create a proposal, use the following procedures to submit your draft by creating a pull request in GitHub.
 
-1. Use a [template](https://github.com/swarmfund/networkgovernance/tree/master/templates) to ensure your proposal includes all the required information. Copy the template. 
-2. Submit your draft proposal by **creating a new file** in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository on GitHub. Give your proposal a temporary name.
-3. Paste the template into your file and complete all the information.
-4. When completed, select the option "Create a **new branch** for this commit and start a pull request"
-5. Click "Propose new file". You will be presented with the chance to create a new pull request.
-6. Click "Create pull request".
-7. An editor will reply to your request, providing an address to stake at least 250 SWM. Supporters may also increase the stake \(by at least 250 SWM\) to improve the chance of your proposal being balloted in the next round of votes.
-8. If your proposal is elevated to a ballot \(GAB\), and is approved by Swarm Members, it will be merged.
-9. Stakes associated with winning GABs are locked for two months after their vote, and then returned to the Ballot Sponsors and Ballot Supporters. The stakes of any failed GABs are forfeited to the Swarm Treasury.
+1. Use a [template](https://github.com/swarmfund/networkgovernance/tree/master/templates) to ensure your proposal includes all the required information. Select the template that relates to the proposal you are submitting, then copy the contents of the template to use in your proposal in Step 3.
+2. Start your draft proposal by **creating a new file** in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository on GitHub. Give your proposal a temporary name that briefly describes the proposal.
+3. Paste the contents of the template from Step 1 into your file and complete all the information.
+4. When you have completed your submission, click "Propose new file". You will be presented with the chance to create a new pull request.
+5. Click "Create pull request", add any notes or instructions, then click "Create pull request" again.
+6. An editor will reply to your request, providing an address to stake at least 250 SWM. Supporters may also increase the stake \(by at least 250 SWM\) to improve the chance of your proposal being balloted in the next round of votes.
+7. If your proposal is elevated to a ballot \(GAB\), and is approved by Swarm Members, it will be merged.
+8. Stakes associated with winning GABs are locked for two months after their vote, and then returned to the Ballot Sponsors and Ballot Supporters. The stakes of any failed GABs are forfeited to the Swarm Treasury.
 
 ## Substantive:
 
