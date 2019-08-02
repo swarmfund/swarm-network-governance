@@ -4,7 +4,7 @@
 
 When you're ready to create a proposal, use the following procedures to submit your draft by creating a pull request in GitHub.
 
-1. Use a [template](https://github.com/swarmfund/networkgovernance/tree/master/templates) to ensure your proposal includes all the required information. Select the template that relates to the proposal you are submitting, click Raw ![](../.gitbook/assets/screenshot-2019-08-02t135715.631%20%281%29.png) , then copy the contents of the template to use in your proposal in Step 3.  
+1. Use a [template](https://github.com/swarmfund/networkgovernance/tree/master/templates) to ensure your proposal includes all the required information. Select the template that relates to the proposal you are submitting, click Raw, then copy the contents of the template to use in your proposal in Step 3.  
 2. Start your draft proposal by **creating a new file** in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository on GitHub. Give your proposal a temporary name that briefly describes the proposal.
 3. Paste the contents of the template from Step 1 into your file and complete all the information.
 4. When you have completed your submission, click "**Propose new file**". You will be presented with the option to create a new pull request. Click "**Create pull request**".
