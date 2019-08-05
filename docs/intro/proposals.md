@@ -9,3 +9,5 @@ There are four themes that a GAP may be categorized into:
 3. Proclamation: proposals for making a public statement on behalf of the Swarm Network,
 4. General: all other governance action proposals.
 
+Proposal templates may be viewed on [GitHub](https://github.com/swarmfund/networkgovernance/tree/master/templates).
+
