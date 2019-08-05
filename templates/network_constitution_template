@@ -4,7 +4,7 @@ Sponsor: Name (GitHub username / email)
 Created: DD-MM-YYYY
 Version: version no.
 Ballot Type: Up/Down, Multi-Option or Approval Ballot
-Voting Period: <Specify 7 day period>
+Voting Period: 7 days
 ---
 
 # Insert proposal title like "Example title" here
