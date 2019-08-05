@@ -16,14 +16,14 @@ The Swarm Council is an elected body of five natural persons who are Members. It
 
 Initial members of the Swarm Council are:
 
-* Philipp Pieper \(current term ends December 25, 2019\)
-* Timo Lehes \(current term ends March 25, 2019\)
+* Philipp Pieper \(current term ends December 25, 2019\) [![](../.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/philipppieper/) 
+* Timo Lehes \(current term ends March 25, 2019\) [![](../.gitbook/assets/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/timolehes/) 
 
 Three additional members were appointed after an approval ballot was held in a referendum in June 2019. These are:
 
 * Richard Steward \(current term ends June 25, 2020\)
-* Zachary K. Perryman  \(current term ends October 25, 2020\)
-* Sam Stone \(current term ends December 25, 2020\)
+* Zachary K. Perryman  \(current term ends October 25, 2020\) [![](../.gitbook/assets/iconfinder_square-linkedin_317725%20%281%29.png)](https://www.linkedin.com/in/zacharyperryman/)
+* Sam Stone \(current term ends December 25, 2020\) [![](../.gitbook/assets/iconfinder_square-linkedin_317725%20%281%29.png)](https://www.linkedin.com/in/stonysam/) 
 
 The Swarm Council may expand to a maximum of nine Members, with the addition of two new Members upon each expansion. Expansion decisions shall be made by a governance action ballot or by a unanimous vote of the Swarm Council.
 
