@@ -17,7 +17,7 @@ When you're ready to create a proposal, use the following procedures to submit y
 7. If your proposal is elevated to a ballot \(GAB\), and is approved by Swarm Members, it will be merged.
 8. Stakes associated with winning GABs are locked for two months after their vote, and then returned to the Ballot Sponsors and Ballot Supporters. The stakes of any failed GABs are forfeited to the Swarm Treasury.
 
-## Substantive:
+## Requirements:
 
 A proposal must:
 
