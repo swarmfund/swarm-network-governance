@@ -1,6 +1,10 @@
-# Requirements
+---
+description: How to submit a governance action proposal for balloting.
+---
 
-## Procedural:
+# Ballot Proposal Process
+
+## Instructions:
 
 When you're ready to create a proposal, use the following procedures to submit your draft by creating a pull request in GitHub.
 

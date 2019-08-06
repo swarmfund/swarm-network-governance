@@ -13,7 +13,7 @@
   * [Approval](intro/approval.md)
   * [Actions](intro/actions.md)
 * [Governance Action Ballots](ballots/README.md)
-  * [Requirements](ballots/requirements.md)
+  * [Ballot Proposal Process](ballots/requirements.md)
   * [Ballot Types](ballots/ballot-types.md)
   * [Pre-Clearance](ballots/pre-clearance.md)
 
