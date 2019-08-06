@@ -6,7 +6,7 @@ Please read [Getting Started](https://github.com/swarmfund/networkgovernance/blo
 
 Submit a draft proposal by creating a new file. Give your proposal a temporary name in the following format:
 
-GAP_[NAME]_[CURRENT_EPOCH_TIME].md
+GAP_[CURRENT_EPOCH_TIME]_[NAME].md
 
 Example:
 
