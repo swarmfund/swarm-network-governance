@@ -20,7 +20,7 @@ When you're ready to create a proposal, use the following procedures to submit y
 3. Stake 250 SWM to make your proposal eligible for balloting.
    1. [ ] An editor will reply to your request, providing an address to stake at least 250 SWM.
    2. [ ] Deposit your stake and provide the TransactionID for verification.
-4. Verified proposals will be merged and visible in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository.
+4. Eligible proposals will be merged and visible in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository.
 5. Any Swarm Member may improve the likelihood of the GAP being balloted by staking an additional amount of SWM, in increments of at least 250.
 6. Every two months, the five most supported GAPs - by staked amount - will be elevated to a Governance Action Ballot \(GAB\) and scheduled for voting in the next referendum. 
 7. Approved GABs are placed in the [Governance Actions](https://github.com/swarmfund/networkgovernance/tree/master/Governance%20Actions) repository and enacted.
