@@ -4,7 +4,11 @@ This repository contains all submitted Swarm Governance Action Proposals (GAPs).
 
 Submit a draft proposal by creating a new file. Give your proposal a temporary name in the following format:
 
-GAP_[NAME]_[CURRENT_EPOCH_TIME]
+GAP_[NAME]_[CURRENT_EPOCH_TIME].md
+
+Example:
+
+GAP_ExampleName_1565084743.md
 
 Current Epoch Time may be obtained from https://www.epochconverter.com
 
