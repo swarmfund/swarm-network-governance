@@ -13,7 +13,7 @@ When you're ready to create a proposal, use the following procedures to submit y
    2. [ ] To copy the template, click **Raw**, then copy the contents of the template to use in your proposal in the next step.  
 2. Submit your draft proposal:
    1. [ ] In the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository, **create a new file**.
-   2. [ ] Name your proposal with a temporary name that includes a description and timestamp.
+   2. [ ] Name your proposal with a temporary name in the following format:  **GAP\_\[CURRENT\_EPOCH\_TIME\]\_\[NAME\].md**  For example:  **GAP\_ExampleName\_1565084743.md**  Epoch Time may be obtained from [https://www.epochconverter.com](https://www.epochconverter.com/) 
    3. [ ] Paste the contents of the template from Step 1 into your file and complete all the information.
    4. [ ] Click "**Propose new file**" to review your submission and click "**Create pull request**" to continue.
    5. [ ] Add any notes or instructions, then click "**Create pull request**" again.
