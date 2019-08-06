@@ -16,15 +16,14 @@ When you're ready to create a proposal, use the following procedures to submit y
    2. [ ] Name your proposal with a temporary name in the following format:  **GAP\_\[CURRENT\_EPOCH\_TIME\]\_\[NAME\].md**  For example:  **GAP\_ExampleName\_1565084743.md**  Epoch Time may be obtained from [https://www.epochconverter.com](https://www.epochconverter.com/) 
    3. [ ] Paste the contents of the template from Step 1 into your file and complete all the information.
    4. [ ] Click "**Propose new file**" to review your submission and click "**Create pull request**" to continue.
-   5. [ ] Add any notes or instructions, then click "**Create pull request**" again.
+   5. [ ] Add any notes or instructions, then click "**Create pull request**" again. 
 3. Stake 250 SWM to make your proposal eligible for balloting.
    1. [ ] An editor will reply to your request, providing an address to stake at least 250 SWM.
-   2. [ ] Deposit your stake and provide the TransactionID for verification.
-4. Eligible proposals will be merged and visible in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository.
-5. Any Swarm Member may improve the likelihood of the GAP being balloted by staking an additional amount of SWM, in increments of at least 250.
-6. Every two months, the five most supported GAPs - by staked amount - will be elevated to a Governance Action Ballot \(GAB\) and scheduled for voting in the next referendum. 
-7. Approved GABs are placed in the [Governance Actions](https://github.com/swarmfund/networkgovernance/tree/master/Governance%20Actions) repository and enacted.
-8. Stakes associated with winning GABs are locked for two months after their vote, and then returned to the Ballot Sponsors and Ballot Supporters. The stakes of any failed GABs are forfeited to the Swarm Treasury.
+   2. [ ] Deposit your stake and provide the TransactionID for verification. Eligible proposals will be merged and be visible in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository.
+   3. [ ] Any Swarm Member may improve the likelihood of the GAP being balloted by staking an additional amount of SWM, in increments of at least 250. 
+4. Every two months, the five most supported GAPs - by staked amount - will be elevated to a Governance Action Ballot \(GAB\) and scheduled for voting in the next referendum. 
+5. GABs that have been approved by Swarm Members in a referendum are placed in the [Governance Actions](https://github.com/swarmfund/networkgovernance/tree/master/Governance%20Actions) repository for archival purposes. 
+6. Stakes associated with winning GABs are locked for two months after their vote, at which time they are returned to the Ballot Sponsors Supporters. The stakes of any failed GABs are forfeited to the Swarm Treasury.
 
 ## Requirements:
 
