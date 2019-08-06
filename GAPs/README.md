@@ -12,7 +12,7 @@ GAP_ExampleName_1565084743.md
 
 Current Epoch Time may be obtained from https://www.epochconverter.com
 
-Elevated GAPs - the five most supported ballots by staked amount - will be copied to the Governance Action Ballot (GAB) repository, and scheduled for voting in a referendum. A referendum is held every two months.
+The five most supported ballots by staked amount will be copied to the Governance Action Ballot (GAB) repository, and scheduled for voting in a referendum. A referendum is held every two months.
 
 Please read [Getting Started](https://github.com/swarmfund/networkgovernance/blob/master/docs/getting-started.md) to learn about how you can participate in the Swarm Governance Proposal process.
 
