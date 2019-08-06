@@ -1,6 +1,8 @@
 ## Swarm Governance Action Proposals
 
-This repository contains all submitted Swarm Governance Action Proposals
+This repository contains all submitted Swarm Governance Action Proposals (GAPs).
+
+Elevated GAPs - the five most supported ballots by staked amount - will be copied to the Governance Action Ballot (GAB) repository, and scheduled for voting in a referendum. A referendum is held every two months.
 
 Please read [Getting Started](https://github.com/swarmfund/networkgovernance/blob/master/docs/getting-started.md) to learn about how you can participate in the Swarm Governance Proposal process.
 
