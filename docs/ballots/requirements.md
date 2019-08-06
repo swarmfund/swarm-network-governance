@@ -8,14 +8,20 @@ description: How to submit a governance action proposal for balloting.
 
 When you're ready to create a proposal, use the following procedures to submit your draft by creating a pull request in GitHub.
 
-1. Use a [template](https://github.com/swarmfund/networkgovernance/tree/master/templates) to ensure your proposal includes all the required information. Select the template that relates to the proposal you are submitting, click **Raw**, then copy the contents of the template to use in your proposal in Step 3.  
-2. Start your draft proposal by **creating a new file** in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository on GitHub. Give your proposal a temporary name that briefly describes the proposal.
-3. Paste the contents of the template from Step 1 into your file and complete all the information.
-4. When you have completed your submission, click "**Propose new file**". Review your submission, then click "**Create pull request**" to continue.
-5. Add any notes or instructions, then click "**Create pull request**" again.
-6. An editor will reply to your request, providing an address to stake at least 250 SWM. Supporters may also increase the stake \(by at least 250 SWM\) to improve the chance of your proposal being balloted in the next round of votes.
-7. If your proposal is elevated to a ballot \(GAB\), and is approved by Swarm Members, it will be merged.
-8. Stakes associated with winning GABs are locked for two months after their vote, and then returned to the Ballot Sponsors and Ballot Supporters. The stakes of any failed GABs are forfeited to the Swarm Treasury.
+1. Use a [template](https://github.com/swarmfund/networkgovernance/tree/master/templates) to ensure your proposal includes all the required information.
+   1. [ ] Click the template that relates to the proposal you are submitting,
+   2. [ ] To copy the template, click **Raw**, then copy the contents of the template to use in your proposal in Step 3.  
+2. Submit your draft proposal by **creating a new file** in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository on GitHub. Give your proposal a temporary name that briefly describes the proposal and a timestamp.
+   1. [ ] Paste the contents of the template from Step 1 into your file and complete all the information.
+   2. [ ] Click "**Propose new file**" to review your submission and click "**Create pull request**" to continue.
+   3. [ ] Add any notes or instructions, then click "**Create pull request**" again.
+3. An editor will reply to your request, providing an address to stake at least 250 SWM.
+   1. [ ] Deposit your stake and provide the TransactionID for verification.
+   2. [ ] Verified proposals will be merged and visible in the GAPs repository.
+4. Any Swarm Member may improve the likelihood of the GAP being balloted by staking an additional amount of SWM, in increments of at least 250.
+5. Every two months, the five most supported GAPs - by staked amount - will be elevated to a Governance Action Ballot \(GAB\) and scheduled for voting in the next referendum. 
+6. Approved Elevated proposal is elevated to a ballot \(GAB\), and is approved by Swarm Members, it will be visible .
+7. Stakes associated with winning GABs are locked for two months after their vote, and then returned to the Ballot Sponsors and Ballot Supporters. The stakes of any failed GABs are forfeited to the Swarm Treasury.
 
 ## Requirements:
 
