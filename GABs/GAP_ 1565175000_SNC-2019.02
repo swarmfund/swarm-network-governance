@@ -1,0 +1,40 @@
+---
+Title: SNC-2019.02 // Amend the SNC to (1) better facilitate thoughtful consideration of GABs by the community (aka Default Masternode Delegation); (2) relax certain requirements for staking SWM against GABs; (3) eliminate supermajority requirement for amending the SNC; and (4) make other non-substantive, editorial revisions
+Sponsor: Swarm Council (voted 06-08-2019, 5 "yes", 0 "no")
+Created: 07-08-2019
+Version: version no. 1.0
+Ballot Type: Up/Down
+Voting Period: 7 days
+Staking Address: Exempt from the staking requirements per SNC-2019.01/Article VII.B.10 
+---
+
+# SNC-2019.02 // Amend the SNC to (1) better facilitate thoughtful consideration of GABs by the community (aka Default Masternode Delegation); (2) relax certain requirements for staking SWM against GABs; (3) eliminate supermajority requirement for amending the SNC; and (4) make other non-substantive, editorial revisions
+
+(1) Default Masternode Delegation
+
+     (a) Goals: (1) to ensure all GABs are meaningfully considered by the community and (2) to minimize issues where non-voting Members are able to stall referendums by defeating quorum requirements.
+
+     (b) Members in the Swarm Network are free to delegate their votes to other Members. The rationale for allowing delegation is that when actions are taken that impact the Swarm Network, delegation increases the likelihood that voting power is exercised by people with greater subject matter knowledge or with greater active involvement and/or interest in the success of the Swarm Network.
+
+     (c) If several Members do not delegate their votes to another Member, and do not themselves vote, the issue of meeting the quorum requirements as outlined in SNC Version 2019.1, Article VII.F can arise.
+
+     (d) The amendments to the SNC proposed by this GAP would result in non-voting Members de jure transferring their votes on a GAB pro rata to the masternode staking wallets, according to the amount of SWM in such wallets.  This reallocation of votes shall be known as the “default masternode delegation.” Thus, for example, assume there are only two masternode wallets.  Masternode 1 wallet holds 50,000 SWM and Masternode 2 wallet holds 100,000 SWM. If a Member holding 150 SWM does not vote on a GAB, the voting rights associated with that Member’s SWM will be automatically reallocated to Masternodes 1 and 2.  Masternode 1 will receive 50 of the reallocated votes and Masternode 2 will receive 100 reallocated votes.
+
+     (e) Vote reallocation occurs on per-GAB or vote-by-vote basis. Votes are not permanently reallocated.
+
+     (f) If the owner of a masternode staking wallet has delegated her votes to another wallet, a default masternode delegation will follow such delegation. Thus, if a masternode owner has 50,000 SWM in her staking wallet, and has delegated her 50,000 votes to another wallet (“Wallet 2”), any votes reallocated to her from non-voting Members pursuant to a default masternode delegation will be added to such 50,000 votes that are delegated to Wallet 2.
+
+     (g) There will no longer be a quorum requirement for voting on GABs after adoption of this measure.
+
+     (h) If none of the masternode wallets or the delegates of those masternode wallets vote on a GAB, such a GAB will constitute a Failed GAB pursuant to Article VII.B of the SNC.
+
+(2) Under the proposed amendments a Member can stake SWM against a GAB to second the GAB in any increment instead of fixed 250 SWM increments. The lock-up period for SWM staked against elevated GABs has been shortened.
+
+(3) To ensure that the community is able to effectively manage the affairs of the Swarm Network during this early period of distributed governance the requirement that amendments to the SNC garner 66% of Members’ votes within a quorum would be eliminated if this proposal is adopted.
+
+(4) The proposed amended SNC can be reviewed here:
+     https://docs.swarm.fund/SNC-2019.02-draft.pdf
+     https://docs.swarm.fund/SNC-2019.02-redline.pdf
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
