@@ -13,8 +13,8 @@ When you're ready, use the following procedures to submit your draft proposal by
    1. [ ] In the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository, **create a new file**.
    2. [ ] Name your proposal with a temporary name in the following format:  **GAP\_\[CURRENT\_EPOCH\_TIME\]\_\[NAME\].md**  For example:  **GAP\_1565084743\_SAMPLENAME.md**  Epoch Time may be obtained from [https://www.epochconverter.com](https://www.epochconverter.com/) 
    3. [ ] Paste the contents of the template from Step 1 into your file and complete all the information.
-   4. [ ] Click "**Propose new file**" to review your submission and click "**Create pull request**" to continue.
-   5. [ ] Add any notes or instructions, then click "**Create pull request**" again. 
+   4. [ ] Select the option to "**Create a new branch for this commit and start a pull request.**"
+   5. [ ] Click "**Propose new file**" to review your submission, add any comments or notes, and click "**Create pull request**" to continue.
 3. Stake 250 SWM to make your proposal eligible for balloting.
    1. [ ] An editor will reply to your request, providing an address to stake at least 250 SWM.
    2. [ ] Deposit your stake and provide the TransactionID for verification. Eligible proposals will be merged and be visible in the [GAPs](https://github.com/swarmfund/networkgovernance/tree/master/GAPs) repository.
