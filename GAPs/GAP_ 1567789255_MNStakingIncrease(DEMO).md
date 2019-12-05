@@ -1,3 +1,5 @@
+[FOR DEMONSTRATION PURPOSES ONLY]
+
 ---
 Title: Title
 Sponsor: Name (GitHub username / email)
