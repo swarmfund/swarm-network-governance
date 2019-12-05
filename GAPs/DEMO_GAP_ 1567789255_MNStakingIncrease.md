@@ -1,7 +1,5 @@
-[FOR DEMONSTRATION PURPOSES ONLY]
-
 ---
-Title: Title
+Title: Title [FOR DEMO PURPOSES ONLY]
 Sponsor: Name (GitHub username / email)
 Created: DD-MM-YYYY
 Version: version no.
