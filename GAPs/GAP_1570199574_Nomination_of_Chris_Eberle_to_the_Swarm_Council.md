@@ -8,7 +8,7 @@ Voting Period: ongoing until 25-12-2019
 Staking Address: "0x75b901Ad97Ce404E90E64573D0B911d032BD9574"
 ---
 
-## Nomination of Chris Eberle to the Swarm Council, replacing Philipp Pieper at the end of his Term Dec 25, 2019
+# Nomination of Chris Eberle to the Swarm Council, replacing Philipp Pieper at the end of his Term Dec 25, 2019
 
 ## Purpose and rationale for the Governance Action and its intended outcomes
 
