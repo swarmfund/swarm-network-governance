@@ -1,5 +1,5 @@
 ---
-Title: GAP_1570199574_Nomination_of_Chris_Eberle_to_the_Swarm_Council.md
+Title: GAP_1570199574_Election_of_Chris_Eberle_to_the_Swarm_Council.md
 Sponsor: pieperp
 Created: 04-10-2019
 Version: version no.
@@ -8,7 +8,7 @@ Voting Period: ongoing until 25-12-2019
 Staking Address: "0x75b901Ad97Ce404E90E64573D0B911d032BD9574"
 ---
 
-# Nomination of Chris Eberle to the Swarm Council, replacing Philipp Pieper at the end of his Term Dec 25, 2019
+# Election of Chris Eberle to the Swarm Council, replacing Philipp Pieper at the end of his Term Dec 25, 2019
 
 ## Purpose and rationale for the Governance Action and its intended outcomes
 
