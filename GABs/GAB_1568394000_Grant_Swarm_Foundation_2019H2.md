@@ -1,7 +1,7 @@
 ---
 Title: Grant of SWM tokens to Swarm Foundation for 2019H2 budget
 Sponsor: SWARM Council (voted 12-15-2019, 5 "yes", 0 "no")
-Created:12-15-2019
+Created: 12-15-2019
 Version: version no. 1.0
 Ballot Type: Up/Down
 Voting Period: 7 days
