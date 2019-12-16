@@ -10,7 +10,7 @@ Start time: 1576515600 (UTC/GMT Monday, December 16, 2019 17:00:00 PM)
 End time: 1577120400 (UTC/GMT Monday, December 23, 2019 17:00:00 PM0)	
 ---
 
-# Swarm Network Policy - Modified Issuance Staking by Swarm_Council exception 
+# Swarm Network Policy - Modified Issuance Staking by Swarm Council exception 
 
 On July 1, the GAB on the SwarmNetworkPolicy for Issuance Staking was decided upon, which laid out the SWM staking requirements for different levels of tokenized value on the Swarm Network.
 
