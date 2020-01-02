@@ -6,3 +6,7 @@ A Member of the Swarm Network is a person that:
 * who lawfully owns SWM tokens, and
 * has a registered and validated identity on the Platform \(“Swarm Investor Pass”\).
 
+Currently, validation must be performed by any of these qualification providers:
+
+* [SumSub](https://sumsub.com/)
+

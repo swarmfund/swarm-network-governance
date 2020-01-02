@@ -1,10 +1,10 @@
 # The Swarm Council
 
-### Duties and Structure
+### Duties
 
 The Swarm Council is an elected body of five natural persons who are Members. Its duties are to initiate sensible governance action proposals, ensure that all governance actions ballots are compliant with the purposes of the Swarm Network, administer funding for governance actions, and help prevent use of the Swarm platform for illicit purposes.
 
-Current members of the Swarm Council are:
+### Current members
 
 * Timo Lehes \(current term ends March 25, 2019\) [![](../.gitbook/assets/iconfinder_square-linkedin_317725%20%281%29.png)](https://www.linkedin.com/in/timolehes/)
 * Richard Steward \(current term ends June 25, 2020\)
