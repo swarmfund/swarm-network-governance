@@ -7,6 +7,7 @@
   * [Governance](the-swarm-network/governance.md)
   * [Members](the-swarm-network/members.md)
   * [The Swarm Council](the-swarm-network/the-swarm-council.md)
+  * [Treasury](the-swarm-network/treasury.md)
 * [Initiating Governance Actions](actions/README.md)
   * [Introduction](actions/ballots.md)
   * [Proposals](actions/proposals.md)
