@@ -15,6 +15,7 @@ At a fixed interval of two months \(the “Voting Interval”\) the GABs in the 
 Assuming a default voting period of seven days, here’s the schedule of upcoming votes:
 
 | Deadline for new GAPs | Voting Period |
+| -- | -- |
 | February 7 | February 10-16 |
 | April 3 | April 6-12 |
 | June 5 | June 8 - 14 |
