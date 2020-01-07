@@ -12,7 +12,7 @@
 At a fixed interval of two months \(the “Voting Interval”\) the GABs in the Voting Queue with the five greatest GAB stakes are elevated for a referendum \(SNC, Article VII, B\(3\)\).
 
   
-Assuming a default voting period of seven days, here’s the schedule of upcoming votes:
+Assuming a default voting period of seven days, here’s the schedule of upcoming votes for 2020:
 
 | Deadline for new GAPs | Voting Period |
 | :--- | :--- |
