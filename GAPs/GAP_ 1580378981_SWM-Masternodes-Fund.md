@@ -50,6 +50,9 @@ This particular GAP only focuses on approving its creation and a few basic rules
 
 New GAPs to improve the Swarm Masternodes Fund are welcome. 
 
+If a future GAP will vote to close the Swarm Masternodes Fund entirely, all of the (remainig) tokens will be redistributed proportionally to the original contributors' wallets.
+
+
 ## Purpose and rationale for the policy change and its intended outcomes
 Each node will only contribute barely 2000 SWM tokens (very likely less) across the total 5-year period, in order to save up to 700,000+ SWM overall.
 
