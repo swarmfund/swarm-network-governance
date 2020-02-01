@@ -60,9 +60,7 @@ Through a new GAP, the Swarm Masternodes Fund could keep a number of MNs running
 
 The Swarm Masternodes Fund would foster a climate of collaboration between members, nurturing engagement and the discussion of ideas enriching the network’s strength, development and reach.
 
-The Swarm Network can keep track of each payment to the Swarm Masternodes Fund return available tokens to their original Ethereum wallets, if the Fund was to be cancelled by any future GAP.
-
-I would like to remind you that the goal of masternodes isn’t to only receive decreasing yearly rewards, but to process an increasing number of MAP (Market Access Protocol) transactions, so I find it very beneficial in the long-term to begin saving a few SWM tokens independent from the Swarm Treasury itself, with the goal of fostering adoption, utility and development.
+I would like to remind the community that the real goal of masternodes isn’t to only receive decreasing yearly rewards, but to process an increasing number of MAP (Market Access Protocol) transactions. Therefore, I find it very beneficial in the long-term to begin saving a few SWM tokens independent from the Swarm Treasury itself, with the goal of fostering adoption, utility and development.
 
 
 ## Additional information for Governance Actions requiring the expenditure of Swarm Treasury funds
