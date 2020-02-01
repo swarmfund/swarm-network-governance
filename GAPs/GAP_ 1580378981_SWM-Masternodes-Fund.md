@@ -50,7 +50,7 @@ This particular GAP only focuses on approving its creation and a few basic rules
 
 New GAPs to improve the Swarm Masternodes Fund are welcome. 
 
-If a future GAP will vote to close the Swarm Masternodes Fund entirely, all of the (remainig) tokens will be redistributed proportionally to the original contributors' wallets.
+If a future GAB will approve closing the Swarm Masternodes Fund entirely, all of the (remaining) tokens will be redistributed to the original wallets in a way proportionate to their contribution. 
 
 
 ## Purpose and rationale for the policy change and its intended outcomes
