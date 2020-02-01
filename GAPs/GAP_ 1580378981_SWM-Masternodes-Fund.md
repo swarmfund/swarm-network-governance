@@ -21,11 +21,11 @@ B) 5 years;
 
 from its inception date, at the percentage rate of:
 
-A) 12.5%;
+A) 12.5%; 
 
-B) 10%;
+B) 10%; 
 
-C) 5% + 2.5% for each following year; (5%, 7.5%, 10%, 12.5%, 15%. 15% will always be the max, regardless of the duration of this initiative.)
+C) 5% + 2.5% for each following year up to a maximum of 15%, regardless of the duration of this initiative.
 
 The cost will only be for the small technical implementation on the Masternodes Page and backend, which can be done in-house. 
 
