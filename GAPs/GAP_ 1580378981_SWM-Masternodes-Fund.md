@@ -1,6 +1,6 @@
 ---
 Title: Swarm Masternodes Fund
-Sponsor: amasiphoto / amasiphoto@gmail.com
+Sponsor: swarmy / amasiphoto@gmail.com
 Created: 30-01-2020
 Version: version no. 1
 Ballot Type: Up/Down with Multi-Option 
