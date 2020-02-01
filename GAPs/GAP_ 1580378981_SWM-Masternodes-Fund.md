@@ -4,7 +4,7 @@ Sponsor: swarmy / amasiphoto@gmail.com
 Created: 30-01-2020
 Version: version no. 2
 Ballot Type: Up/Down with Multi-Option 
-Voting Period: 10 days
+Voting Period: 7 days
 Staking Address: "0x1ECF35Af3B2FD40A9559Ca51796A036A1567De59"
 ---
 
