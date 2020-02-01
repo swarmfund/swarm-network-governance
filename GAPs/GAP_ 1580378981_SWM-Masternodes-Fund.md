@@ -11,7 +11,7 @@ Staking Address: "0x1ECF35Af3B2FD40A9559Ca51796A036A1567De59"
 # Swarm Masternodes Fund
 
 ## Description of the proposed change to Swarm Network Policy
-Vote YES or NO to approve or disapprove of the entire GAP. If YES, then Multi-Option choices are below:
+Vote YES or NO to approve or disapprove of the entire GAP. If YES, then Multi-Option choices are below.
 
 Adjusting the masternodes staking contracts. From every monthly payment to each node, a chosen % can be automatically sent to a secure wallet over the course of:
 
