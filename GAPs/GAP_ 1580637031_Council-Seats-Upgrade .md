@@ -5,7 +5,7 @@ Created: 02-02-2020
 Version: version no. 1
 Ballot Type: Up/Down 
 Voting Period: 7 days
-Staking Address: To be provided by Swarm Council
+Staking Address: "0x0Fbaec96d138F2c3BeB827A04417aa1D033DF269"
 ---
 
 # Council Seats Upgrade
