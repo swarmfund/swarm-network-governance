@@ -5,7 +5,7 @@ Created: 03-02-2020
 Version: version no. 1
 Ballot Type: Approval Ballot
 Voting Period: 7 days
-Staking Address: To be provided by Swarm Council
+Staking Address: "0x9762Ba151121D3323aF3B110808b53099582623d"
 ---
 
 # Nominations to the Swarm Council
