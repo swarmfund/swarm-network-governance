@@ -61,7 +61,7 @@ I would like to remind the community that the real goal of masternodes isn’t t
 
 ## Additional information for Governance Actions requiring the expenditure of Swarm Treasury funds
 
-It will bear no cost as any changes to the Masternode rewards delivery to the Swarm Masternodes Fund will be done in-house. 
+It will bear no cost as any necessary change to the Masternode rewards delivery will be done in-house by developers of the Swarm Network community. 
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
