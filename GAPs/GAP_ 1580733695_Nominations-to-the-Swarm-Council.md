@@ -44,5 +44,5 @@ This proposal is a nomination and has no request for funds associated with it.
 N/A
 
 
-## License
+## License 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
