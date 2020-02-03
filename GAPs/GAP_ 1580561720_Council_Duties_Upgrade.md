@@ -59,15 +59,15 @@ Here is the (**)UPGRADED LIST of Duties that is being proposed:
 
 8. To always represent in its best abilities and in good faith, the vision, adoption, interests, improvements and value of the Swarm Network and its staking functionalities.
 
-9. To publish all multi-signature wallets addresses (and any other wallet or asset) owned by the Swarm Foundation and the Swarm Treasury. It is the Swarm Council’s duty to keep an up-to-date identity record of the respective owners of such signatures.
+9. To publish all multi-signature wallets addresses (and any other wallet or asset) for the Swarm Treasury. It is the Swarm Council’s duty to keep an up-to-date identity record of the respective owners of such signatures.
 
 10. To publish, describe, update and maintain available on the Swarm Network’s website, all the tools developed or being developed by the Swarm Network and the current completion status. 
 
-11. To record, archive and maintain available any invoice, contract or payment being authorised, or paid by the Swarm Foundation.
+11. To record, archive and maintain available any invoice, contract or payment being authorised, or paid by the Swarm Network through its Treasury.
 
-12. To record and preserve details of all future SWM tokens being exchanged for any and all other units of value by the Swarm Foundation as a way of rebalancing the Swarm Treasury. To provide details of such actions to the community no later than 30 days after the exchange.
+12. To record and preserve details of all future SWM tokens being exchanged for any and all other units of value by the Swarm Network and its Treasury as a way of rebalancing its funds. To provide details of such actions to the community no later than 30 days after the exchange.
 
-13. To commit time and effort, to the best of its abilities, in actively researching, evaluating and developing strategies and proposals dedicated to the long-term vision and adoption of the Swarm Network, and towards the long-term funding of the Swarm Foundation.
+13. To commit time and effort, to the best of its abilities, in actively researching, evaluating and developing strategies and proposals dedicated to the long-term vision and adoption of the Swarm Network, and towards the long-term funding of the Swarm Network.
 
 14. To commit, to the best of its abilities, to regularly stay in touch with the community and demonstrate availability towards developers and users adopting the Swarm Network.
 
@@ -76,7 +76,7 @@ Here is the (**)UPGRADED LIST of Duties that is being proposed:
 ## Purpose and rationale for the constitutional change and its intended outcomes
 
 
-Many Swarm Network members feel a lack of structure and community engagement at the Swarm Foundation. Therefore, we believe that the duties of the SNC have come to require an upgrade and to be described in greater detail. 
+Many Swarm Network members feel a lack of structure and community engagement at the Swarm Network. Therefore, we believe that the duties of the SNC have come to require an upgrade and to be described in greater detail. 
 
 
 ## Identify the specific uses for which any Swarm Treasury funds may be expended to support the Governance Action;
