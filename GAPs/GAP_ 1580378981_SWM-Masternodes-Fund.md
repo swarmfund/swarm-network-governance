@@ -19,7 +19,7 @@ A) 3 years;
 
 B) 5 years;
 
-from its inception date, at the percentage rate of:
+from its inception date, at the (monthly) percentage rate of:
 
 A) 12.5%; 
 
@@ -27,8 +27,11 @@ B) 10%;
 
 C) 5% + 2.5% for each following year up to a maximum of 15%, regardless of the duration of this initiative.
 
-The cost will only be for the small technical implementation on the Masternodes Page and backend, which can be done in-house. 
+This particular GAP only focuses on approving the creation of the Swarm Masternodes Fund and a few basic rules to begin saving as soon as possible. It DOES NOT decide when or how the funds will be used. Deployment of funds will be decided at the right time and with dedicated GAPs. 
 
+New GAPs to improve the Swarm Masternodes Fund are welcome. 
+
+If a future GAP will be approved to entirely cancel the Swarm Masternodes Fund, ALL of the tokens in the SMF will be returned to the original wallets in a way proportionate to their original contribution. 
 
 Data available clearly at: https://docs.google.com/spreadsheets/d/1zx5krx-mPaxVYQsyusGHkbWDYWIdCS5c2EUyV9h-gLU/edit?usp=sharing
 
@@ -45,12 +48,6 @@ It will also require the creation of a multisig Ethereum address administered an
 A new GAP in the future will aim to create a (Aragon) DAO that will vote on how to deploy the funds.
 
 A new metric will be inserted in the Masternodes page, showing the Fund’s current balance. (https://masternodes.swarm.fund/#/) (implementation time to be discussed)
-
-This particular GAP only focuses on approving its creation and a few basic rules to begin saving as soon as possible. 
-
-New GAPs to improve the Swarm Masternodes Fund are welcome. 
-
-If a future GAB will approve closing the Swarm Masternodes Fund entirely, all of the (remaining) tokens will be redistributed to the original wallets in a way proportionate to their contribution. 
 
 
 ## Purpose and rationale for the policy change and its intended outcomes
