@@ -1,7 +1,7 @@
 ---
 Title: Nominations to the Swarm Council
-Sponsor: swarmy / amasiphoto@gmail.com
-Created: 02-02-2020
+Sponsor: TheRock247 / stevesargey@gmail.com
+Created: 03-02-2020
 Version: version no. 1
 Ballot Type: Approval Ballot
 Voting Period: 7 days
