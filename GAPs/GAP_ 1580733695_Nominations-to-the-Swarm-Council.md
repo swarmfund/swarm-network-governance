@@ -29,7 +29,7 @@ If the concurrent ‘GAP_ 1580637031_Council-Seats-Upgrade’ (from 5 to 7) is n
 **Swarm Network Council current terms are at: https://docs.swarmnetwork.org/the-swarm-network/the-swarm-council
 
 
-## Purpose and rationale for the Governance Action and its intended outcomes
+## Purpose and rationale for the Governance Action and its intended outcomes 
 
 With a positive vote to the three nominations above, two Swarm Capital representatives will remain on the SNC, while five will be unrelated to Swarm Capital. 
 
