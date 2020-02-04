@@ -57,19 +57,21 @@ Here is the (**)UPGRADED LIST of Duties that is being proposed:
 
 - Actions decided upon to be finalised or postponed;
 
-8. To always represent in its best abilities and in good faith, the vision, adoption, interests, improvements and value of the Swarm Network and its staking functionalities.
+8. To always represent in good faith, the vision, adoption, interests, improvements and value of the Swarm Network and its staking functionalities.
 
-9. To publish all multi-signature wallets addresses (and any other wallet or asset) for the Swarm Treasury. It is the Swarm Council’s duty to keep an up-to-date identity record of the respective owners of such signatures.
+9. To engage in organising and coordinating 'community work groups', where members are engaged in volunteer work of various nature, pitch and develop ideas, and dedicate time towards the adoption and development of the Swarm Network.  
 
-10. To publish, describe, update and maintain available on the Swarm Network’s website, all the tools developed or being developed by the Swarm Network and the current completion status. 
+10. To publish all multi-signature wallets addresses (and any other wallet or asset) for the Swarm Treasury. It is the Swarm Council’s duty to keep an up-to-date identity record of the respective owners of such signatures.
 
-11. To record, archive and maintain available any invoice, contract or payment being authorised, or paid by the Swarm Network through its Treasury.
+11. To publish, describe and update on the Swarm Network’s website, all the tools officially developed or being developed by the Swarm Network, their current completion status as well as up-to-date informative material.
 
-12. To record and preserve details of all future SWM tokens being exchanged for any and all other units of value by the Swarm Network and its Treasury as a way of rebalancing its funds. To provide details of such actions to the community no later than 30 days after the exchange.
+12. To record, archive and maintain available any invoice, contract or payment being authorised, or paid by the Swarm Network through its Treasury.
 
-13. To commit time and effort, to the best of its abilities, in actively researching, evaluating and developing strategies and proposals dedicated to the long-term vision and adoption of the Swarm Network, and towards the long-term funding of the Swarm Network.
+13. To record and preserve details of all future SWM tokens being exchanged for any other units of value by the Swarm Network and its Treasury as a way of rebalancing its funds. To provide details of such actions to the community no later than 30 days after the exchange.
 
-14. To commit, to the best of its abilities, to regularly stay in touch with the community and demonstrate availability towards developers and users adopting the Swarm Network.
+14. To commit, to the best of its abilities, in actively researching, evaluating and developing strategies and proposals dedicated to the long-term vision and adoption of the Swarm Network, towards the long-term funding of the Swarm Network and the core utility of the Swarm token.
+
+15. To demonstrate availability for the community, developers and users adopting the Swarm Network.
 
 
 
