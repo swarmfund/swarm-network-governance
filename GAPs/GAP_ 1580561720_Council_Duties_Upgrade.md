@@ -61,7 +61,7 @@ Here is the (**)UPGRADED LIST of Duties that is being proposed:
 
 9. To engage in organising and coordinating 'community work groups', where members are engaged in volunteer work of various nature, pitch and develop ideas, and dedicate time towards the adoption and development of the Swarm Network.  
 
-10. To publish all multi-signature wallets addresses (and any other wallet or asset) for the Swarm Treasury. It is the Swarm Council’s duty to keep an up-to-date identity record of the respective owners of such signatures.
+10. To publish all wallet addresses that have access to the multi-signature contract that controls the Swarm Treasury. It is the Swarm Council’s duty to keep an up-to-date identity record of the respective owners of those wallets.
 
 11. To publish, describe and update on the Swarm Network’s website, all the tools officially developed or being developed by the Swarm Network, their current completion status as well as up-to-date informative material.
 
