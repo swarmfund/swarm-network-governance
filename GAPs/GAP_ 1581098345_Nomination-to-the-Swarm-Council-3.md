@@ -1,5 +1,5 @@
 ---
-Title: Nomination to the Swarm Council (3)
+Title: Nomination of Alessandro Masi to the Swarm Council
 Sponsor: TheRock247 / stevesargey@gmail.com
 Created: 07-02-2020
 Version: version no. 1
@@ -8,11 +8,9 @@ Voting Period: 7 days
 Staking Address: ""
 ---
 
-# Nomination to the Swarm Council (3)
+# Nomination of Alessandro Masi to the Swarm Council
 
 ## Description of the proposed Governance Action
-
-Up/Down.
 
 - Contingent to the approval of ‘GAP_ 1580637031_Council-Seats-Upgrade’, making two additional seats available at the Swarm Network Council, a YES will nominate Alessandro Masi for the open seat. Alessandro Masi has been a long-time contributor to the Swarm Network, his profile can be found at: https://uk.linkedin.com/in/alexmasi
 
