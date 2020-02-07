@@ -1,5 +1,5 @@
 ---
-Title: Nominations to the Swarm Council
+Title: Nomination to the Swarm Council 1
 Sponsor: Swarmy / amasiphoto@gmail.com
 Created: 03-02-2020
 Version: version no. 1
@@ -8,13 +8,13 @@ Voting Period: 7 days
 Staking Address: "0x9762Ba151121D3323aF3B110808b53099582623d"
 ---
 
-# Nomination to the Swarm Council
+# Nomination to the Swarm Council 1
 
 ## Description of the proposed Governance Action
 
 Up/Down.
 
-1) Timo Lehes’ term on the SNC will end on March 25, 2020; a YES will nominate Aravinda Babu for the open seat. Aravinda Babu has been a long-time contributor to the Swarm Network. His profile can be found at: https://www.linkedin.com/in/linuxchip/
+- Timo Lehes’ term on the SNC will end on March 25, 2020; a YES will nominate Aravinda Babu for the open seat. Aravinda Babu has been a long-time contributor to the Swarm Network. His profile can be found at: https://www.linkedin.com/in/linuxchip/
 
 ## Purpose and rationale for the Governance Action and its intended outcomes
 
