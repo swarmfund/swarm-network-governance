@@ -1,5 +1,5 @@
 ---
-Title: Nomination to the Swarm Council 1
+Title: Nomination of Aravinda Babuto the Swarm Council
 Sponsor: Swarmy / amasiphoto@gmail.com
 Created: 03-02-2020
 Version: version no. 1
@@ -8,7 +8,7 @@ Voting Period: 7 days
 Staking Address: "0x9762Ba151121D3323aF3B110808b53099582623d"
 ---
 
-# Nomination to the Swarm Council 1
+# Nomination of Aravinda Babu to the Swarm Council
 
 ## Description of the proposed Governance Action
 
