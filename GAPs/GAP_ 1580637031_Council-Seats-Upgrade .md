@@ -19,7 +19,8 @@ This GAP proposes the following change in the Swarm Network Policy, to be answer
 
 ## Purpose and rationale for the policy change and its intended outcomes
 
-Raising the number of Council Members (5 to 7) presents the community with the possibility of nominating two of its most committed members to be part of the SNC as soon as possible.
+Raising the number of Council Members (5 to 7) presents the community with the possibility of nominating two of its most committed individuals to be part of the SNC, and be able to commit further to the necessary duties to bring the Swarm Network forward.
+
 
 ## Identify the specific uses for which any Swarm Treasury funds may be expended to support the Governance Action;
 
