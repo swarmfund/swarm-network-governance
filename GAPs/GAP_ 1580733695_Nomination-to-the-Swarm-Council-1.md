@@ -1,5 +1,5 @@
 ---
-Title: Nomination of Aravinda Babuto the Swarm Council
+Title: Nomination of Aravinda Babuto to the Swarm Council
 Sponsor: Swarmy / amasiphoto@gmail.com
 Created: 03-02-2020
 Version: version no. 1
