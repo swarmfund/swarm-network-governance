@@ -21,7 +21,7 @@ B) Yes, for 5 years;
 C) No, I disapprove of this action;
 
 
-- If option A or B are selected, the monthly percentage rate delivered to the Swarm Masternode Fund will be:
+- If option A or B are selected, the monthly percentage rate delivered to the Swarm Masternodes Fund (SMF) will be:
 
 A) 12.5%; 
 
@@ -30,7 +30,7 @@ B) 10%;
 C) 5% + 2.5% for each following year up to a maximum of 15%, regardless of the duration of this initiative.
 
 
-This particular GAP only focuses on approving the creation of the Swarm Masternodes Fund (SMF) to begin saving as soon as possible. It DOES NOT set rules regarding when or how the funds will be used.
+This particular GAP only focuses on approving the creation of the SMF to begin saving as soon as possible while the rewards pool is still fairly large. It DOES NOT set rules regarding when or how the funds will be used.
  
 Deployment of funds will be decided with dedicated proposals. If a future GAP will be approved to entirely cancel the SMF, the tokens in the SMF will be sent to the wallets originally meant to receive them. However, this restitution action will bear a small cost which will be included in its dedicated proposal and be paid with the funds by then accrued within the SMF. 
 
