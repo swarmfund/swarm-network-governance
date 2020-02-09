@@ -5,7 +5,7 @@ Created: 07-02-2020
 Version: version no. 1
 Ballot Type: Approval Ballot
 Voting Period: 7 days
-Staking Address: ""
+Staking Address: "0x093838D17975f06009365c983a9F61914275eBef"
 ---
 
 # Nomination of Alex Cornwell to the Swarm Council
