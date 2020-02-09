@@ -5,7 +5,7 @@ Created: 07-02-2020
 Version: version no. 1
 Ballot Type: Approval Ballot
 Voting Period: 7 days
-Staking Address: ""
+Staking Address: "0xcb0BF636A060c0E2E988EdD6f698CeC9009685b8"
 ---
 
 # Nomination of Alessandro Masi to the Swarm Council
