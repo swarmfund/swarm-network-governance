@@ -65,9 +65,9 @@ Here is the (**)UPGRADED LIST of Duties that is being proposed:
 
 11. To publish, describe and update on the Swarm Network’s website, a list of all the tools officially developed or being developed by the Swarm Network, their current completion status as well as up-to-date informative material.
 
-12. To record, archive and maintain available any invoice, contract or payment being authorised, or paid by the Swarm Network through its Treasury.
+12. To record, archive and maintain available any invoice, contract, grant or payment being authorised, or paid by the Swarm Network through its Treasury.
 
-13. To record and preserve details of all future SWM tokens being exchanged by the Swarm Network, for any other units of value as a way of rebalancing its Treasury. To provide details of such actions to the community no later than 30 days after the exchange.
+13. To record and preserve details of all future SWM tokens, exchanged by the Swarm Network, for any other units of value as a way of rebalancing its Treasury after a community GAB. To provide details of such exchanges to the community no later than 30 days later.
 
 14. To commit, to the best of its abilities, in actively researching, evaluating and developing strategies towards the long-term vision and adoption of the Swarm Network, its long-term funding and the utility of its SWM token.
 
