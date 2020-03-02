@@ -5,7 +5,7 @@ Created: 27-02-2020
 Version: version no. 1
 Ballot Type: Up/Down 
 Voting Period: 7 days
-Staking Address: ""
+Staking Address: "0xCb84D1Ca45e0DE4Ffe064337A4e82526a6b2F038"
 ---
 
 # Council Seats Upgrade
