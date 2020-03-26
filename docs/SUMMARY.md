@@ -17,3 +17,7 @@
   * [Ballots](intro/ballots.md)
   * [Voting](intro/voting.md)
 
+## Masternodes
+
+* [Masternode Rewards](masternodes/masternode-rewards.md)
+
