@@ -5,11 +5,10 @@
 * The text between the tags ```<hash-start>``` and ```</hash-end>``` should be hashed using the SHA256 algorithm and evidenced below the text, for future reference.
 * The title of the SCV should follow the format SCV_(EPOCHtime)_(TITLE).md where EPOCHtime is equivalent to the current Unix Epoch and can be calculated using https://www.unixtimestamp.com/index.php
 
-
 <hash-start>
 ---
-Title: (TITLE, e.g. Decision regarding April Voting Period)
-Sponsor: Swarm Council
+Title: (TITLE, e.g. Decision regarding April Voting Period) |
+Sponsor: Swarm Council | 
 Created: (DATE, EPOC)
 ---
 
