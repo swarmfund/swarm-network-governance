@@ -6,7 +6,7 @@
 * The title of the SCV should follow the format SCV_(EPOCHtime)_(TITLE).md where EPOCHtime is equivalent to the current Unix Epoch and can be calculated using https://www.unixtimestamp.com/index.php
 
 
-```<hash-start>```
+<hash-start>
 ---
 Title: (TITLE, e.g. Decision regarding April Voting Period)
 Sponsor: Swarm Council
@@ -31,7 +31,7 @@ These GAPs/GABs are canceled (pursuant to Section VIII.E.(b) of the SNC-2019.02)
 (optional)
 These GAPs/GABs have a modified Enactment Period (pursuant to Section VIII.E.(c) of the SNC-2019.02):
 (Title, GitHubURL, reason (optional),...)
-```</hash-end>```
+</hash-end>
 
 ## Hash
 (HASH)
