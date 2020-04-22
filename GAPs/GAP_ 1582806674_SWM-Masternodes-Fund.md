@@ -5,7 +5,7 @@ Created: 21-04-2020
 Version: version no. 1
 Ballot Type: Up / Down 
 Voting Period: 7 days
-Staking Address: "0x970961D431aD12F3a4b60A3496062B90BB8896DC"
+Staking Address: "0x8e5946E1fC5c93C2d4EA6fac5EA0266a4dF1B3d6"
 ---
 
 # Swarm Masternodes Fund
