@@ -5,7 +5,7 @@ Created: 21-04-2020
 Version: version no. 1
 Ballot Type: Approval Ballot
 Voting Period: 7 days
-Staking Address: ""
+Staking Address: "0xa71E10e22E0C30372CFF856D455853a10e63754D"
 ---
 
 # Nomination of Felix Carl Wiegandt to the Swarm Council
