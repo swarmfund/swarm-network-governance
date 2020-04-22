@@ -1,7 +1,7 @@
 ---
 Title: Swarm Masternodes Fund
 Sponsor: swarmy / amasiphoto@gmail.com
-Created: 27-02-2020
+Created: 21-04-2020
 Version: version no. 1
 Ballot Type: Up / Down 
 Voting Period: 7 days
@@ -22,7 +22,7 @@ Data available at: https://docs.google.com/spreadsheets/d/1zx5krx-mPaxVYQsyusGHk
 
 Any of the above rules can be amended in the future by a new GAP.
 
-If this current proposal is agreed upon, the Swarm Network will aim to implement the changes and start the Swarm Masternodes Fund between the end of February and the end of March 2020. 
+If this current proposal is agreed upon, the Swarm Network will aim to implement the changes and start the Swarm Masternodes Fund starting with the July 2020 stake.
 
 It will require the creation of a multisig Ethereum address administered and protected by the Swarm Council. It will need at least 3 signatures or a similarly secure protection in accordance to the Swarm Network’s own standards. 
 
