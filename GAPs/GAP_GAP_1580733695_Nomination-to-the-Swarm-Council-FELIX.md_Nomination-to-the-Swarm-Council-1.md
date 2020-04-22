@@ -18,7 +18,7 @@ Staking Address: "0xa71E10e22E0C30372CFF856D455853a10e63754D"
 
 After talks among network participants we identified Felix Carl Wiegandt as an excellent community representative at the Swarm Council.
 
-His ppublic profile is avaulable at: https://de.linkedin.com/in/felix-wiegandt-008397150
+His public profile is available at: https://de.linkedin.com/in/felix-wiegandt-008397150
 
 ## Identify the specific uses for which Swarm Treasury funds may be expended to support the Governance Action
 
