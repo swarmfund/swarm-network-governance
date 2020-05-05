@@ -9,5 +9,3 @@ Are you reading this on GitHub? You might enjoy a friendlier format by going [he
 Just want to jump in and create a proposal? Go straight to the [Quick Start](getting-started.md) guide.
 
 Note: This guide is a summary. Read the official Swarm Network Constitution on [GitHub](https://github.com/swarmfund/networkgovernance/tree/master/swarm_network_constitution).
-
-[<img src="/docs/.gitbook/assets/iconfinder_square-linkedin_317725 (1).png">](http://google.com.au/)
