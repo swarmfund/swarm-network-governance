@@ -1,3 +1,4 @@
+<hash-start>
 # Communication from Swarm Council Meeting
 
 Date: 31 March, 2020 (Posted to github 5 May, 2020)
@@ -37,3 +38,14 @@ Appendix 1: List of GitHub Repositories Open Sourced 4.6.2020
 * https://github.com/swarmfund/swarm-map-sdk
 * https://github.com/swarmfund/swarm-map-documentation
 * https://github.com/swarmfund/JsonSchemas-Swarm
+</hash-end>
+
+## Hash of all text between hash-start and hash-end tags
+0xE61352EF3F1ED155EE54CEF6F61F153604BD929B5A4059A210624766DE19AA70
+Based on sha256-32 using [Hash Calculator](https://www.pelock.com/products/hash-calculator) 
+
+## VerifiedExistence
+https://www.etherscan.io/tx/0x004189ccb23a0332e4d7d34d50ad8ac576a75351480e3351d81936090984f049 via [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md)
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
