@@ -22,8 +22,8 @@ These GAPs do not advance to GAB (pursuant to Sec VII.B.1 of the SNC-2019.02):
 0xACA21849B35EF40CD3798E55508E54821EC1B9C2CBE3D0E8482372AC1007A0D9
 Based on sha256-32 using [Hash Calculator](https://www.pelock.com/products/hash-calculator) 
 
-## [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md)
-https://etherscan.io/tx/0x01e7fe0101126207614d96622141caf6717613cd9a13f76b8633c02b3251b8fa
+## VerifiedExistence
+https://etherscan.io/tx/0x01e7fe0101126207614d96622141caf6717613cd9a13f76b8633c02b3251b8fa via [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md)
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
