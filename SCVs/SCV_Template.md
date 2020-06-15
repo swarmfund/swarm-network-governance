@@ -2,7 +2,7 @@
 
 ## Instructions:
 
-* The text between the tags ```<hash-start>``` and ```</hash-end>``` should be hashed using the SHA256 algorithm and evidenced below the text, for future reference.
+* The text between the tags `<hash-start>` and `</hash-end>` should be hashed using the SHA256 algorithm and evidenced below the text, for future reference.
 * The title of the SCV should follow the format SCV_(EPOCHtime)_(TITLE).md where EPOCHtime is equivalent to the current Unix Epoch and can be calculated using https://www.unixtimestamp.com/index.php
 
 <hash-start>
@@ -33,8 +33,8 @@ These GAPs/GABs have a modified Enactment Period (pursuant to Section VIII.E.(c)
 </hash-end>
 
 ## Hash
-(HASH)
-Based on SHA256
+0x(HASH)
+Based on sha256-32, e.g. using [Hash Calculator](https://www.pelock.com/products/hash-calculator)
 
 ## Signed message
  (ETHERSCAN)
