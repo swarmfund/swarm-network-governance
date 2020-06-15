@@ -37,8 +37,8 @@ These GAPs/GABs have a modified Enactment Period (pursuant to Section VIII.E.(c)
 0x(HASH)
 Based on sha256-32, e.g. using [Hash Calculator](https://www.pelock.com/products/hash-calculator)
 
-## Signed message
- (ETHERSCAN)
+## VerifiedExistence
+(TxHASH) via [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md)
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
