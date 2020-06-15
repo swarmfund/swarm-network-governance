@@ -2,8 +2,9 @@
 
 ## Instructions:
 
-* The text between the tags `<hash-start>` and `</hash-end>` should be hashed using the SHA256 algorithm and evidenced below the text, for future reference.
 * The title of the SCV should follow the format SCV_(EPOCHtime)_(TITLE).md where EPOCHtime is equivalent to the current Unix Epoch and can be calculated using https://www.unixtimestamp.com/index.php
+* Edit in "Raw" so that you can see all content;
+  * The text between the tags `<hash-start>` and `</hash-end>` should be hashed using the SHA256 algorithm and evidenced below the text, for future reference.
 
 <hash-start>
 ---
