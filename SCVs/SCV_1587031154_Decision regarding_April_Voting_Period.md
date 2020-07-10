@@ -23,7 +23,7 @@ These GAPs do not advance to GAB (pursuant to Sec VII.B.1 of the SNC-2019.02):
 Based on sha256-32 using [Hash Calculator](https://www.pelock.com/products/hash-calculator) 
 
 ## VerifiedExistence
-https://etherscan.io/tx/0x01e7fe0101126207614d96622141caf6717613cd9a13f76b8633c02b3251b8fa via [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md)
+https://etherscan.io/tx/0x01e7fe0101126207614d96622141caf6717613cd9a13f76b8633c02b3251b8fa via [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md) tokenId 2
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
