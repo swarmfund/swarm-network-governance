@@ -16,7 +16,7 @@ Discussion Items:
 Based on sha256-32 using [Hash Calculator](https://www.pelock.com/products/hash-calculator) 
 
 ## VerifiedExistence
-https://www.etherscan.io/tx/0xd04baa4f45daee4b7f489dc53c798101b9fdfbe2994723557a15bb82d38c3490 via [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md)
+https://www.etherscan.io/tx/0xd04baa4f45daee4b7f489dc53c798101b9fdfbe2994723557a15bb82d38c3490 via [VerifiedExistence](https://github.com/swarmfund/swarm-open-tools/blob/master/VerifiedExistence/Readme.md) tokenId 4
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
