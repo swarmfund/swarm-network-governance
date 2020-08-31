@@ -5,7 +5,7 @@ Created: 08-27-2020
 Version: 1
 Ballot Type: Up/Down
 Voting Period: 7 days
-Staking Address: To be provided by Swarm Council
+Staking Address: 0x4666987bd71B50dc04191953608F428134b6A877
 ---
 
 # MN REWARD DISTRIBUTION REIMBURSEMENT
