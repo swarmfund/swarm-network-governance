@@ -6,8 +6,8 @@ Version: version no. 1.0
 Ballot Type: Up/Down
 Voting Period: 7 days
 Staking Address: Exempt from the staking requirements per SNC-2019.02/Article VII.B.10 
-Start time: 1607104800 (UTC/GMT Friday, December 4, 2020 6:00:00 PM)
-End time: 1607709600 (UTC/GMT Friday, December 11, 2020 6:00:00 PM)	
+Start time: 1607709600 (UTC/GMT Friday, December 11, 2020 6:00:00 PM)
+End time: 1608314400 (UTC/GMT Friday, December 18, 2020 6:00:00 PM)	
 ---
 
 # Change voting platform and SNC clean-up (SNC-2020.03) 
