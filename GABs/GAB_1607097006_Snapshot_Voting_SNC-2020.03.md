@@ -24,7 +24,7 @@ The vote on this GAB will already occur on the new voting platform at https://sn
 
 No budget requested for the implementation of this GAP.
 
-Those Swarm Network Members in favor of adopting this GAB should vote “yes” (=”Adopt”). Per SNC-2019.02, if a ballot for a referendum on an amendment to the Swarm Network Constitution is approved when the votes for “Adopt” outnumber the votes for “Reject " at the end of the Voting Period.
+Those Swarm Network Members in favor of adopting this GAB should vote “yes” (=”Adopt”). Per SNC-2019.02, if a ballot for a referendum on an amendment to the Swarm Network Constitution is approved when the votes for “Adopt” outnumber the votes for “Reject " at the end of the Voting Period. The Masternode Delegation applicable to this GAB will be manually taken into account by Swarm Council after vote has closed and published at https://community.swarm.fund/t/vote-to-move-to-new-voting-platform/3001
 
 ## License
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
