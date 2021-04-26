@@ -1,0 +1,34 @@
+---
+Title: Increase Staking Rewards
+Sponsor: Felix / f.wiegandt@wiebec.eu
+Created: 04-26-2021 (1597145321)
+Version: version no. 1
+Ballot Type: Approval Ballot
+Voting Period: 4 days
+Staking Address: Exempt from the staking requirements per SNC-2019.02/Article VII.B.10
+---
+
+# Proposal to increase the staking rewards for 1 month
+
+## Description of the proposed Governance Action
+Current Situation:
+Current Staking Rewards are 2.26% for Pool 1 (SWM) and 29.19% for Pool 2 (UNI-V2-ETH-SWM). 
+We have liquidity of approximately $1 million on Uniswap. To increase liquidity on Uniswap, I recommend doubling the staking rewards for one month.
+## Purpose and rationale for the Governance Action and its intended outcomes
+Adding liquidity on Uniswap can lead to impermanent loss, which is probably why many investors do not want to add liquidity on Uniswap. 
+
+However, high liquidity has the advantages of allowing traders to buy and sell assets quickly and at any time within market hours. 
+This is often associated with reduced risk, as market participants can quickly withdraw from their positions without substantially affecting the price of the asset. 
+In addition, high liquidity is characterized by more stable prices and higher levels of efficiency.
+
+Increasing staking rewards creates a greater incentive to add liquidity on Uniswap. 
+
+## Identify the specific uses for which Swarm Treasury funds may be expended to support the Governance Action;
+
+Currently $117k per month of $SWM is used for Staking Rewards. Doubling the Staking Rewards for one month equals 234k $SWM.
+Thus, 234k $SWM would need to be used if the proposal is approved
+
+## Additional information for Governance Actions requiring the expenditure of Swarm Treasury funds
+
+## License
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
